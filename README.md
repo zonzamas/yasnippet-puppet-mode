@@ -24,6 +24,6 @@ idiom/snippet isn't included here.
 Author
 -------
 
-Copyright (C) 2012 Jasper Lievisse Adriaanse <jasper@humppa.nl>
+Copyright (C) 2013 Jasper Lievisse Adriaanse <jasper@humppa.nl>
 
 Distributed under the MIT/X11 license (see the file COPYING).
